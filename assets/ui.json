@@ -1,0 +1,25 @@
+{
+  "backgrounds": [
+    "atri/ui/bg.png",
+    "atri/ui/bg2.png"
+  ],
+  "buttons": "atri/ui/buttons.png",
+  "button_width": 60,
+  "button_height": 13,
+  "columns": [
+    0,
+    60
+  ],
+  "rows": [
+    0,
+    13,
+    26,
+    39,
+    52,
+    65,
+    78
+  ],
+  "menu_x": 12,
+  "menu_y": 60,
+  "menu_spacing": 13
+}
